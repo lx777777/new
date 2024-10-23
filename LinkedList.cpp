@@ -172,4 +172,6 @@ int main() {
     list1.show();
     sortLinkedList(list1);
     list1.show();
+
+    delete list1;
 }
